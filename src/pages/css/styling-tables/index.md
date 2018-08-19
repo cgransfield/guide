@@ -12,4 +12,9 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 
+#### use CSS selectors to style elements:
+<!--this code is showing the error message "your h2 element should be blue" please help? -->
 
+<style>
+h2 {color: blue;}
+</style>
